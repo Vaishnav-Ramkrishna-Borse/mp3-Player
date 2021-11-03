@@ -21,7 +21,7 @@ Lets Play With Music
 *  Volume ------> It shows progress of volume up and volume down buttons and in the middle of the bar it shows percentage of volume increased or decreased
 *  Music -------> It shows progress of music, length of music, time upto which song is playing 
 
-## 5. Libraries used
+## 5. Libraries / Modules used
 * tkinter, pygame, datetime, mutagen, tkinter.ttk, etc
 
 ## 6. Other Things
